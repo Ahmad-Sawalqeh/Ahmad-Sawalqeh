@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
 
-**Knowledge of:** `Git`,` GitHub`, `HTML`,` Responsive web design`, `CSS`, `DOM`, `Javascript`,` ReactJS`, `JSX`,` AXIOS`, `3rd Party API`,` NoSQL databases`, ` Bootstrap`,` MySQL`, `NodeJS`,` NPM`, `FontAwesome`, `MongoDB`, `data structures and algorithms`.
+**Knowledge of:** `Git`, `GitHub`, `VsCode`, `HTML5`, `Responsive web design`, `CSS3`, `DOM`, `Javascript`(Vanilla, ES6), `jQuery`, `Bootstrap`, `ReactJS`, `Enzyme`, `Redux`, `AXIOS`, `3rd Party API`, `NoSQL databases`, `Postgres`, `MySQL`, `MongoDB`, `NodeJS`, `Jest`, `NPM`, `FontAwesome`, `Object-Oriented Programming`, `data structures and algorithms`.
 
 **Deployment platforms** such as `github pages`, `Herkou` and `Netlify`.
 
