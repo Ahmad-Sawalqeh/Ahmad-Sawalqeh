@@ -29,9 +29,9 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <p align='center'>📩 &nbsp; Feel free to contact me. I am always here ...</p>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/ahmad-alsawalqeh/"><img height="26" src="https://cdn4.iconfinder.com/data/icons/materia-social-free/24/038_002_linkedin_social_network_android_material-128.png" alt="Linkedin" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:sawalqa_jo@hotmail.com"><img height="22" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/mail.png?raw=true" alt="Email"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/sawalqa_jo"><img height="22" width="28" src="https://cdn1.iconfinder.com/data/icons/buttons-10/100/Code-512.png" alt="HakerRank Account"></a>
+<a href="https://www.linkedin.com/in/ahmad-alsawalqeh/" target="blank"><img height="26" src="https://cdn4.iconfinder.com/data/icons/materia-social-free/24/038_002_linkedin_social_network_android_material-128.png" alt="Linkedin" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:sawalqa_jo@hotmail.com" target="blank"><img height="22" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/mail.png?raw=true" alt="Email"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/sawalqa_jo" target="blank"><img height="22" width="28" src="https://cdn1.iconfinder.com/data/icons/buttons-10/100/Code-512.png" alt="HakerRank Account"></a>
 </p>
 
 
