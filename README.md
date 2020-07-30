@@ -36,5 +36,3 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/AhmadSawalqeh" target="_blank"><img height="22" width="30" src="https://cdn0.iconfinder.com/data/icons/social-glyph/30/codepen-480.png" alt="Codepen Account"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codewars.com/users/Ahmad-Sawalqeh" target="_blank"><img height="22" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" alt="Codewars Account"></a>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonzay281&layout=compact)
