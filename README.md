@@ -37,8 +37,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img align="left" style="margin-right: 7px" alt="JQuery" width="26px" height="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-512.png" />
 <img align="left" style="margin-right: 7px" alt="Bootstrap" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
 <img align="left" style="margin-right: 7px" alt="JSON" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/json.svg" />
-<br>
-<br>
 <img align="left" style="margin-right: 7px" alt="React.js" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" style="margin-right: 7px" alt="Redux" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
 <img align="left" style="margin-right: 7px" alt="PostgreSQL" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
@@ -52,7 +50,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <p>
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Sawalqeh&show_icons=true&hide_border=true" />
 </p>
-<br>
 <br>
 <br>
 <br>
