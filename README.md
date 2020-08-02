@@ -41,7 +41,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img align="left" style="margin-right: 7px" alt="Redux" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
 <img align="left" style="margin-right: 7px" alt="PostgreSQL" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
 <img align="left" style="margin-right: 7px" alt="MySQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" />
-<img align="left" style="margin-right: 7px" alt="MongoDB" width="30px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />
+<img align="left" style="margin-right: 7px" alt="MongoDB" width="30px" src="https://lh3.googleusercontent.com/proxy/XtDAMuzCqqSIrBo2o-5jhZ4c27HzQnBMIDAUSp8Jmv-U4x01W4lUvpvWjPX58Vkv_dIeRbugKPuSdmn1jpMs1_7XZY1pgA" />
 <img align="left" style="margin-right: 7px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" style="margin-right: 7px" alt="Jest" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" />
 <img align="left" style="margin-right: 7px" alt="NPM" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" />
@@ -50,6 +50,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <p>
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Sawalqeh&show_icons=true&hide_border=true" />
 </p>
+<br>
 <br>
 <br>
 <br>
