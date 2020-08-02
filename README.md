@@ -39,11 +39,11 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <br />
 <br />
 <code><img align="left" style="margin-right: 7px" alt="JSON" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/json.svg" /></code>
-<code><img align="left" style="margin-right: 7px" alt="React.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/react.svg" /></code>
+<code><img align="left" style="margin-right: 7px" alt="React.js" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></code>
 <code><img align="left" style="margin-right: 7px" alt="Redux" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" /></code>
 <code><img align="left" style="margin-right: 7px" alt="PostgreSQL" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" /></code>
 <code><img align="left" style="margin-right: 7px" alt="MySQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" /></code>
-<code><img align="left" style="margin-right: 7px" alt="MongoDB" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" /></code>
+<code><img align="left" style="margin-right: 7px;margin-top: 8px" alt="MongoDB" width="30px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" /></code>
 <code><img align="left" style="margin-right: 7px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
 <code><img align="left" style="margin-right: 7px" alt="Jest" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" /></code>
 <code><img align="left" style="margin-right: 7px" alt="NPM" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" /></code>
