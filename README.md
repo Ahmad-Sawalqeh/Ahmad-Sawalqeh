@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow&style=social)](https://github.com/Ahmad-Sawalqeh)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=Ahmad-Sawalqeh)](https://github.com/Ahmad-Sawalqeh)
+<br>
 [![Linkedin: ahmad-alsawalqeh](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
 [![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
