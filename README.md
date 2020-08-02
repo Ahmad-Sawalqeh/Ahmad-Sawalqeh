@@ -45,6 +45,9 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img align="left" style="margin-right: 7px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" style="margin-right: 7px" alt="Jest" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" />
 <img align="left" style="margin-right: 7px" alt="NPM" width="26px" height="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJ86XD-sb66p_KPgCh4eHla987DCG1oxYSjOFinYu8SakX5I&s" />
+<img align="left" style="margin-right: 7px" alt="Github Pages" width="26px" height="26px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=512" />
+<img align="left" style="margin-right: 7px" alt="Heroku" width="26px" height="26px" src="https://www.drupal.org/files/issues/2019-12-27/heroku_logo.png" />
+<img align="left" style="margin-right: 7px" alt="Netlify" width="26px" height="26px" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" />
 </p>
 <br>
 <p>
