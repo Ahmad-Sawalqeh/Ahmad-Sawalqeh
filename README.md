@@ -71,8 +71,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <br>
 <br> -->
 <br>
-<p align='center'>📩 &nbsp; Feel free to contact me. I am always here ...</p>
-<p align='center'>
+<p align='right'>📩 &nbsp; Feel free to contact me. I am always here ...</p>
+<p align='right'>
 <a href="https://www.linkedin.com/in/ahmad-alsawalqeh/" target="_blank"><img height="26" src="https://cdn4.iconfinder.com/data/icons/materia-social-free/24/038_002_linkedin_social_network_android_material-128.png" alt="Linkedin" ></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:sawalqa_jo@hotmail.com" target="_blank"><img height="22" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/mail.png?raw=true" alt="Email"></a>
