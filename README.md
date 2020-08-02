@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 <br>
 [![Linkedin: ahmad-alsawalqeh](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
 [![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
+<br>
+[![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh)
+[![Codepen](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Ahmad-Sawalqeh)
 [![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
+[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
 [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Ahmad Sawalqeh, <a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">My Resume</a></strong></samp></h2>
@@ -27,7 +31,7 @@ Here are some ideas to get you started:
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
-💬 **Knowledge of:** `Git`, `GitHub`, `VsCode`, `HTML5`, `CSS3`, `Responsive web design`, `FontAwesome`, `Javascript`(Vanilla, ES6), `DOM`, `jQuery`, `Bootstrap`, `JSON`,
+💬 **Knowledge of:** `Git`, `GitHub`, `VsCode`, `HTML5`, `CSS3`, `Responsive web design`, `FontAwesome`, `Javascript`(Vanilla, ES6), `ESlint`, `DOM`, `jQuery`, `Bootstrap`, `JSON`,
  `ReactJS`, `Enzyme`, `Redux`, `AXIOS`, `3rd Party API`, `NoSQL databases`, `Postgres`, `MySQL`, `MongoDB`, `NodeJS`, `Jest`, `NPM`, `Swagger`,`Object-Oriented Programming`, `data structures and algorithms`.
 
 💬 **Deployment platforms** such as `github pages`, `Herkou` and `Netlify`.
