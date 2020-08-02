@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Linkedin: ahmad-alsawalqeh](https://img.shields.io/badge/-Ahmad%20Sawalqeh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-alsawalqeh/)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
+[![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh)
+
 <h2 align='center'><samp><strong>Hi there 👋, I am Ahmad Sawalqeh, <a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">My Resume</a></strong></samp></h2>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
 
