@@ -12,20 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Linkedin: ahmad-alsawalqeh](https://img.shields.io/badge/-Ahmad%20Sawalqeh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-alsawalqeh/)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
 <h2 align='center'><samp><strong>Hi there 👋, I am Ahmad Sawalqeh, <a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">My Resume</a></strong></samp></h2>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
 
-<p align='left'> As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
+<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
-**Knowledge of:** `Git`, `GitHub`, `VsCode`, `HTML5`, `CSS3`, `Responsive web design`, `FontAwesome`, `Javascript`(Vanilla, ES6), `DOM`, `jQuery`, `Bootstrap`, `JSON`,
+💬 **Knowledge of:** `Git`, `GitHub`, `VsCode`, `HTML5`, `CSS3`, `Responsive web design`, `FontAwesome`, `Javascript`(Vanilla, ES6), `DOM`, `jQuery`, `Bootstrap`, `JSON`,
  `ReactJS`, `Enzyme`, `Redux`, `AXIOS`, `3rd Party API`, `NoSQL databases`, `Postgres`, `MySQL`, `MongoDB`, `NodeJS`, `Jest`, `NPM`, `Object-Oriented Programming`, `data structures and algorithms`.
 
-**Deployment platforms** such as `github pages`, `Herkou` and `Netlify`.
+💬 **Deployment platforms** such as `github pages`, `Herkou` and `Netlify`.
 
-**Languages and Tools Icons**:
+💬 **Languages and Tools Icons**:
 <p>
 <img align="left" style="margin-right: 7px" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
 <img align="left" style="margin-right: 7px" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg" />
@@ -52,8 +52,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img align="left" style="margin-right: 7px" alt="Netlify" width="26px" height="26px" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" />
 </p>
 <br>
+<br>
 <p>
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Sawalqeh&show_icons=true&hide_border=true" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="left" alt="Ahmad-Sawalqeh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Sawalqeh&show_icons=true&hide_border=true" />
 </p>
 <br>
 <br>
