@@ -59,14 +59,17 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 </p>
 <br>
 <br>
-<p>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- <p>
 <img align="left" alt="Ahmad-Sawalqeh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Sawalqeh&show_icons=true&hide_border=true" />
-</p>
+</p> -->
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh)](https://github.com/Ahmad-Sawalqeh/github-contribution-stats/)
+
+<!-- <br>
 <br>
 <br>
-<br>
-<br>
+<br> -->
 <br>
 <p align='center'>📩 &nbsp; Feel free to contact me. I am always here ...</p>
 <p align='center'>
