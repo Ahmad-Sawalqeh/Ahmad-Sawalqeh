@@ -27,26 +27,26 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 **Languages and Tools Icons**:
 <p>
-<code><img align="left" style="margin-right: 7px" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
-<code><img align="left" style="margin-right: 7px" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg" /></code>
-<code><img align="left" style="margin-right: 7px" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" /></code>
-<code><img align="left" style="margin-right: 7px" alt="HTML5" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/html5.svg" /></code>
-<code><img align="left" style="margin-right: 7px" alt="CSS3" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" /></code>
-<code><img align="left" style="margin-right: 7px" alt="FontAwesome" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" /></code>
-<code><img align="left" style="margin-right: 7px" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
-<code><img align="left" style="margin-right: 7px" alt="JQuery" width="26px" height="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-512.png" /></code>
-<code><img align="left" style="margin-right: 7px" alt="Bootstrap" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" /></code>
-<br />
-<br />
-<code><img align="left" style="margin-right: 7px" alt="JSON" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/json.svg" /></code>
-<code><img align="left" style="margin-right: 7px" alt="React.js" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></code>
-<code><img align="left" style="margin-right: 7px" alt="Redux" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" /></code>
-<code><img align="left" style="margin-right: 7px" alt="PostgreSQL" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" /></code>
-<code><img align="left" style="margin-right: 7px" alt="MySQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" /></code>
-<code><img align="left" style="margin-right: 7px;margin-top: 8px" alt="MongoDB" width="30px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" /></code>
-<code><img align="left" style="margin-right: 7px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
-<code><img align="left" style="margin-right: 7px" alt="Jest" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" /></code>
-<code><img align="left" style="margin-right: 7px" alt="NPM" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" /></code>
+<img align="left" style="margin-right: 7px" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
+<img align="left" style="margin-right: 7px" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg" />
+<img align="left" style="margin-right: 7px" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+<img align="left" style="margin-right: 7px" alt="HTML5" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/html5.svg" />
+<img align="left" style="margin-right: 7px" alt="CSS3" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" />
+<img align="left" style="margin-right: 7px" alt="FontAwesome" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" />
+<img align="left" style="margin-right: 7px" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />
+<img align="left" style="margin-right: 7px" alt="JQuery" width="26px" height="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-512.png" />
+<img align="left" style="margin-right: 7px" alt="Bootstrap" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
+<img align="left" style="margin-right: 7px" alt="JSON" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/json.svg" />
+<br>
+<br>
+<img align="left" style="margin-right: 7px" alt="React.js" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" style="margin-right: 7px" alt="Redux" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
+<img align="left" style="margin-right: 7px" alt="PostgreSQL" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
+<img align="left" style="margin-right: 7px" alt="MySQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" />
+<img align="left" style="margin-right: 7px;margin-top: 8px" alt="MongoDB" width="30px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
+<img align="left" style="margin-right: 7px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" style="margin-right: 7px" alt="Jest" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" />
+<img align="left" style="margin-right: 7px" alt="NPM" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" />
 </p>
 <br>
 <p>
