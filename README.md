@@ -34,7 +34,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <code><img align="left" style="margin-right: 10px" alt="CSS3" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/css3.svg" /></code>
 <code><img align="left" style="margin-right: 10px" alt="FontAwesome" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" /></code>
 <code><img align="left" style="margin-right: 10px" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
-
 <code><img align="left" style="margin-right: 10px" alt="JQuery" width="26px" height="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-512.png" /></code>
 <code><img align="left" style="margin-right: 10px" alt="Bootstrap" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" /></code>
 <code><img align="left" style="margin-right: 10px" alt="JSON" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/json.svg" /></code>
@@ -45,8 +44,11 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <code><img align="left" style="margin-right: 10px;margin-top: 10px" alt="MongoDB" width="30px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" /></code>
 <code><img align="left" style="margin-right: 10px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
 <code><img align="left" style="margin-right: 10px" alt="Jest" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" /></code>
-<code><img align="left" style="margin-right: 10px;margin-top: 8px" alt="NPM" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" /></code>
-<!-- <code><img align="left" style="margin-right: 10px" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
+<code><img align="left" style="margin-right: 10px;margin-top: 8px;" alt="NPM" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" /></code>
+</p>
+<br>
+<p>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Sawalqeh&show_icons=true&hide_border=true" />
 </p>
 <br>
 <p align='center'>📩 &nbsp; Feel free to contact me. I am always here ...</p>
@@ -64,7 +66,3 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/Ahmad-Sawalqeh" target="_blank"><img height="22" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" alt="Codewars Account"></a>
 </p>
-<br>
-<br>
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Sawalqeh&show_icons=true&hide_border=true" />
-<br>
