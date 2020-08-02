@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow&style=social)](https://github.com/Ahmad-Sawalqeh)
+[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=Ahmad-Sawalqeh)](https://github.com/Ahmad-Sawalqeh)
 [![Linkedin: ahmad-alsawalqeh](https://img.shields.io/badge/-Ahmad%20Sawalqeh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-alsawalqeh/)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
 [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh)
 
