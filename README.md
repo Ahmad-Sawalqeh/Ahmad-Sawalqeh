@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow&style=social)](https://github.com/Ahmad-Sawalqeh)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=Ahmad-Sawalqeh)](https://github.com/Ahmad-Sawalqeh)
 [![Linkedin: ahmad-alsawalqeh](https://img.shields.io/badge/-Ahmad%20Sawalqeh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-alsawalqeh/)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
+[![Mail](https://img.shields.io/badge/-sawalqa_jo@hotmail.com-black?style=flat-square&logo=gmail&logoColor=blue&link=)](mailto:sawalqa_jo@hotmail.com)
 [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Ahmad Sawalqeh, <a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">My Resume</a></strong></samp></h2>
