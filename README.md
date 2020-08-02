@@ -20,40 +20,34 @@ Here are some ideas to get you started:
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
-**Knowledge of:** `Git`, `GitHub`, `VsCode`, `HTML5`, `CSS3`, `Responsive web design`, `FontAwesome`, `Javascript`(Vanilla, ES6), `DOM`, `jQuery`, `Bootstrap`, `JSON`, `ReactJS`, `Enzyme`, `Redux`, `AXIOS`, `3rd Party API`, `NoSQL databases`, `Postgres`, `MySQL`, `MongoDB`, `NodeJS`, `Jest`, `NPM`, `Object-Oriented Programming`, `data structures and algorithms`.
+**Knowledge of:** `Git`, `GitHub`, `VsCode`, `HTML5`, `CSS3`, `Responsive web design`, `FontAwesome`, `Javascript`(Vanilla, ES6), `DOM`, `jQuery`, `Bootstrap`, `JSON`,
+ `ReactJS`, `Enzyme`, `Redux`, `AXIOS`, `3rd Party API`, `NoSQL databases`, `Postgres`, `MySQL`, `MongoDB`, `NodeJS`, `Jest`, `NPM`, `Object-Oriented Programming`, `data structures and algorithms`.
 
 **Deployment platforms** such as `github pages`, `Herkou` and `Netlify`.
 
 **Languages and Tools Icons**:
 <p>
-<code><img align="left" style="margin-right: 10px" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
-<code><img align="left" style="margin-right: 10px" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
-<code><img align="left" style="margin-right: 10px" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
-<code><img align="left" style="margin-right: 10px" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img align="left" style="margin-right: 10px" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img align="left" style="margin-right: 10px" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
+<code><img align="left" style="margin-right: 10px" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg" /></code>
+<code><img align="left" style="margin-right: 10px" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" /></code>
+<code><img align="left" style="margin-right: 10px" alt="HTML5" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/html5.svg" /></code>
+<code><img align="left" style="margin-right: 10px" alt="CSS3" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/css3.svg" /></code>
+<code><img align="left" style="margin-right: 10px" alt="FontAwesome" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" /></code>
+<code><img align="left" style="margin-right: 10px" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
 
-<code><img align="left" style="margin-right: 10px" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-
-
-
-
-
-<code><img align="left" style="margin-right: 10px" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-
-
-
-
-
-<code><img align="left" style="margin-right: 10px" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
-<code><img align="left" style="margin-right: 10px" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
-<code><img align="left" style="margin-right: 10px" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></code>
+<code><img align="left" style="margin-right: 10px" alt="JQuery" width="26px" height="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-512.png" /></code>
+<code><img align="left" style="margin-right: 10px" alt="Bootstrap" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" /></code>
+<code><img align="left" style="margin-right: 10px" alt="JSON" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/json.svg" /></code>
+<code><img align="left" style="margin-right: 10px" alt="React.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/react.svg" /></code>
+<code><img align="left" style="margin-right: 10px" alt="Redux" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" /></code>
+<code><img align="left" style="margin-right: 10px" alt="PostgreSQL" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" /></code>
+<code><img align="left" style="margin-right: 10px" alt="MySQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" /></code>
+<code><img align="left" style="margin-right: 10px;margin-top: 10px" alt="MongoDB" width="30px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" /></code>
 <code><img align="left" style="margin-right: 10px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
-<code><img align="left" style="margin-right: 10px" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img align="left" style="margin-right: 10px" alt="Jest" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" /></code>
+<code><img align="left" style="margin-right: 10px;margin-top: 8px" alt="NPM" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" /></code>
+<!-- <code><img align="left" style="margin-right: 10px" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
 </p>
-<br>
-<br>
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Sawalqeh&show_icons=true&hide_border=true" />
-<br>
 <br>
 <p align='center'>📩 &nbsp; Feel free to contact me. I am always here ...</p>
 
@@ -70,3 +64,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/Ahmad-Sawalqeh" target="_blank"><img height="22" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" alt="Codewars Account"></a>
 </p>
+<br>
+<br>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Sawalqeh&show_icons=true&hide_border=true" />
+<br>
