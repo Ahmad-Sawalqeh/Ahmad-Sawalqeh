@@ -59,10 +59,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img align="left" style="margin-right: 7px" alt="Node.js" width="26px" src="https://image.winudf.com/v2/image1/Y29tLnNreWFwcGVyLmxlYXJubm9kZWpzX2ljb25fMTU1ODM1NzY4M18wMzI/icon.png?w=170&fakeurl=1" />
 <img align="left" style="margin-right: 7px" alt="socket.io" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" />
 <img align="left" style="margin-right: 7px" alt="Jest" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" />
+<br>
+<br>
 <img align="left" style="margin: 10px 7px 0 0" alt="NPM" width="26px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/136956/images/5133272/npm-logo-red.png" />
 <!-- <img align="left" style="margin-right: 7px" alt="NPM" width="26px" height="26px" src="https://mpng.subpng.com/20180618/opl/kisspng-npm-node-js-computer-icons-computer-software-insta-5b278c9a4f9274.2530470115293185543259.jpg" /> -->
-<br>
-<br>
 <img align="left" style="margin-right: 7px" alt="SwaggerHub" width="26px" height="26px" src="https://miro.medium.com/max/720/0*ouOwqU23IiOAJf5v.jpg" />
 <img align="left" style="margin-right: 7px" alt="Github Pages" width="26px" height="26px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=512" />
 <img align="left" style="margin-right: 7px" alt="Heroku" width="26px" height="26px" src="https://www.drupal.org/files/issues/2019-12-27/heroku_logo.png" />
