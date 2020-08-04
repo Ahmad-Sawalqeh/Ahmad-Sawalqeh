@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
 💬 **Knowledge of:** `Git`, `GitHub`, `VsCode`, `HTML5`, `CSS3`, `Responsive web design`, `FontAwesome`, `Javascript`(Vanilla, ES6), `ESlint`, `DOM`, `jQuery`, `Bootstrap`, `JSON`,
- `ReactJS`, `Enzyme`, `Redux`, `AXIOS`, `3rd Party API`, `NoSQL databases`, `Postgres`, `MySQL`, `MongoDB`, `NodeJS`, `Jest`, `NPM`, `Swagger`,`Object-Oriented Programming`, `data structures and algorithms`.
+ `ReactJS`, `Enzyme`, `Redux`, `AXIOS`, `3rd Party API`, `NoSQL databases`, `Postgres`, `MySQL`, `MongoDB`, `NodeJS`, `socket.io`, `Jest`, `NPM`, `Swagger`,`Object-Oriented Programming`, `data structures and algorithms`.
 
 💬 **Deployment platforms** such as `github pages`, `Herkou` and `Netlify`.
 
@@ -55,9 +55,12 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img align="left" style="margin-right: 7px" alt="PostgreSQL" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
 <img align="left" style="margin-right: 7px" alt="MySQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" />
 <img align="left" style="margin-right: 7px" alt="MongoDB" width="30px" height="26px" src="https://developer.asustor.com/uploadIcons/0020_999_1579584903_MongoDB_256.png" />
-<img align="left" style="margin-right: 7px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<!-- <img align="left" style="margin-right: 7px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
+<img align="left" style="margin-right: 7px" alt="Node.js" width="26px" src="https://image.winudf.com/v2/image1/Y29tLnNreWFwcGVyLmxlYXJubm9kZWpzX2ljb25fMTU1ODM1NzY4M18wMzI/icon.png?w=170&fakeurl=1" />
+<img align="left" style="margin-right: 7px" alt="socket.io" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" />
 <img align="left" style="margin-right: 7px" alt="Jest" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" />
-<img align="left" style="margin-right: 7px" alt="NPM" width="26px" height="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJ86XD-sb66p_KPgCh4eHla987DCG1oxYSjOFinYu8SakX5I&s" />
+<img align="left" style="margin: 10px 7px 0 0" alt="NPM" width="26px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/136956/images/5133272/npm-logo-red.png" />
+<!-- <img align="left" style="margin-right: 7px" alt="NPM" width="26px" height="26px" src="https://mpng.subpng.com/20180618/opl/kisspng-npm-node-js-computer-icons-computer-software-insta-5b278c9a4f9274.2530470115293185543259.jpg" /> -->
 <br>
 <br>
 <img align="left" style="margin-right: 7px" alt="SwaggerHub" width="26px" height="26px" src="https://miro.medium.com/max/720/0*ouOwqU23IiOAJf5v.jpg" />
