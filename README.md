@@ -54,7 +54,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img align="left" style="margin-right: 7px" alt="Redux" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
 <img align="left" style="margin-right: 7px" alt="PostgreSQL" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
 <img align="left" style="margin-right: 7px" alt="MySQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" />
-<img align="left" style="margin-right: 7px" alt="MongoDB" width="30px" src="https://lh3.googleusercontent.com/proxy/XtDAMuzCqqSIrBo2o-5jhZ4c27HzQnBMIDAUSp8Jmv-U4x01W4lUvpvWjPX58Vkv_dIeRbugKPuSdmn1jpMs1_7XZY1pgA" />
+<img align="left" style="margin-right: 7px" alt="MongoDB" width="30px" height="26px" src="https://laymanclass.com/wp-content/uploads/2019/08/mongodb2.jpeg" />
 <img align="left" style="margin-right: 7px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" style="margin-right: 7px" alt="Jest" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" />
 <img align="left" style="margin-right: 7px" alt="NPM" width="26px" height="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJ86XD-sb66p_KPgCh4eHla987DCG1oxYSjOFinYu8SakX5I&s" />
