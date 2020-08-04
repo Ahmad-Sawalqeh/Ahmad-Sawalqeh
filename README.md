@@ -54,9 +54,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img align="left" style="margin-right: 7px" alt="Redux" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
 <img align="left" style="margin-right: 7px" alt="PostgreSQL" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
 <img align="left" style="margin-right: 7px" alt="MySQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" />
-<img align="left" style="margin-right: 7px" alt="MongoDB" width="30px" height="26px" src="https://store-images.s-microsoft.com/image/apps.6989.a12805b7-de86-452a-9038-c542399367ad.f72d2524-f4cc-48a6-96ac-6110d258321c.fb8b1181-133f-4b29-a852-f3d724ad1020" />
-<!-- <img align="left" style="margin-right: 7px" alt="MongoDB" width="30px" height="26px" src="https://developer.asustor.com/uploadIcons/0020_999_1579584903_MongoDB_256.png" /> -->
-<!-- <img align="left" style="margin-right: 7px" alt="MongoDB" width="30px" height="26px" src="https://lh5.googleusercontent.com/proxy/o5GV3460Xg9DeejLEjXyo3vdxSiLboCyrBoqtstT1n8Tv6NX0HQpUFhr55se770Vw35Sf4zb7FcFX5lcdr0bEzvz8sm7t9CQwEhdxQ83XmH_lArORC8xuEE" /> -->
+<img align="left" style="margin-right: 7px" alt="MongoDB" width="30px" height="26px" src="https://developer.asustor.com/uploadIcons/0020_999_1579584903_MongoDB_256.png" />
 <img align="left" style="margin-right: 7px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" style="margin-right: 7px" alt="Jest" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" />
 <img align="left" style="margin-right: 7px" alt="NPM" width="26px" height="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJ86XD-sb66p_KPgCh4eHla987DCG1oxYSjOFinYu8SakX5I&s" />
