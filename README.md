@@ -73,9 +73,9 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <!-- <p>
 <img align="left" alt="Ahmad-Sawalqeh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Sawalqeh&show_icons=true&hide_border=true" />
 </p> -->
-
-<img align="right" style="border-radius: 5px" alt="GIF" width="495px" height="245px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<p>
+<img align="right" style="border-radius: 5px" alt="GIF" width="400px" height="245px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh)](https://github.com/Ahmad-Sawalqeh/github-contribution-stats/) -->
 <img align="left" style="border-radius: 5px" alt="GIF" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
-
+</p>
