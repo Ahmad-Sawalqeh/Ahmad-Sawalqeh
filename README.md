@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
-<h2 align='center'><samp><strong>Hi there 👋, I am Ahmad Sawalqeh, <a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">My Resume</a></strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋, I am <a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Ahmad Sawalqeh🌐</a></strong></samp></h2>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
@@ -38,8 +38,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 💬 **Deployment platforms** such as `github pages`, `Herkou` and `Netlify`.
 
-💬 **Highlights** <br>
-<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='26' height='26'>&nbsp;&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
+➡️ **Highlights** <br>
+&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='26' height='26'>&nbsp;&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
 
 💬 **Languages and Tools Icons**:
 <p>
