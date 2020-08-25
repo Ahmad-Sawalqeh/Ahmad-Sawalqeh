@@ -38,6 +38,9 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 💬 **Deployment platforms** such as `github pages`, `Herkou` and `Netlify`.
 
+💬 **Highlights** <br>
+<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='26' height='26'>&nbsp;&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
+
 💬 **Languages and Tools Icons**:
 <p>
 <img align="left" style="margin-right: 7px" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
