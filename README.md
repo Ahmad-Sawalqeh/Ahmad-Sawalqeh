@@ -43,31 +43,31 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 💬 **Languages and Tools Icons**:
 <p style="display: flex; justify-contect: space-between;">
-<img style="margin-right: 7px" alt="Git" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
-<img style="margin-right: 7px" alt="GitHub" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg" />
-<img style="margin-right: 7px" alt="Visual Studio Code" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
-<img style="margin-right: 7px" alt="HTML5" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/html5.svg" />
-<img style="margin-right: 7px" alt="CSS3" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" />
-<img style="margin-right: 7px" alt="SASS" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
-<img style="margin-right: 7px" alt="FontAwesome" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" />
-<img style="margin-right: 7px" alt="JavaScript" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />
-<img style="margin-right: 7px" alt="JQuery" width="26px" height="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-512.png" />
-<img style="margin-right: 7px" alt="Bootstrap" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
-<img style="margin-right: 7px" alt="JSON" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/json.svg" />
-<img style="margin-right: 7px" alt="React.js" width="26px" height="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-<img style="margin-right: 7px" alt="Redux" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
-<img style="margin-right: 7px" alt="PostgreSQL" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
-<img style="margin-right: 7px" alt="MySQL" width="30px" height="26px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" />
-<img style="margin-right: 7px" alt="MongoDB" width="30px" height="26px" src="https://developer.asustor.com/uploadIcons/0020_999_1579584903_MongoDB_256.png" />
-<img style="margin-right: 7px" alt="Node.js" width="26px" height="26px" src="https://image.winudf.com/v2/image1/Y29tLnNreWFwcGVyLmxlYXJubm9kZWpzX2ljb25fMTU1ODM1NzY4M18wMzI/icon.png?w=170&fakeurl=1" />
-<img align="left" style="margin-right: 7px" alt="socket.io" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" />
+<img style="margin-right: 10px" alt="Git" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
+<img style="margin-right: 10px" alt="GitHub" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg" />
+<img style="margin-right: 10px" alt="Visual Studio Code" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+<img style="margin-right: 10px" alt="HTML5" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/html5.svg" />
+<img style="margin-right: 10px" alt="CSS3" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" />
+<img style="margin-right: 10px" alt="SASS" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
+<img style="margin-right: 10px" alt="FontAwesome" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" />
+<img style="margin-right: 10px" alt="JavaScript" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />
+<img style="margin-right: 10px" alt="JQuery" width="26px" height="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-512.png" />
+<img style="margin-right: 10px" alt="Bootstrap" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
+<img style="margin-right: 10px" alt="JSON" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/json.svg" />
+<img style="margin-right: 10px" alt="React.js" width="26px" height="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img style="margin-right: 10px" alt="Redux" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
+<img style="margin-right: 10px" alt="PostgreSQL" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
+<img style="margin-right: 10px" alt="MySQL" width="30px" height="26px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" />
+<img style="margin-right: 10px" alt="MongoDB" width="30px" height="26px" src="https://developer.asustor.com/uploadIcons/0020_999_1579584903_MongoDB_256.png" />
+<img style="margin-right: 10px" alt="Node.js" width="26px" height="26px" src="https://image.winudf.com/v2/image1/Y29tLnNreWFwcGVyLmxlYXJubm9kZWpzX2ljb25fMTU1ODM1NzY4M18wMzI/icon.png?w=170&fakeurl=1" />
+<img style="margin-right: 10px" alt="socket.io" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" />
 
-<img  style="margin-right: 7px" alt="Jest" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" />
-<img  style="margin-right: 7px" alt="NPM" width="26px" height="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" />
-<img  style="margin-right: 7px" alt="SwaggerHub" width="26px" height="26px" src="https://miro.medium.com/max/720/0*ouOwqU23IiOAJf5v.jpg" />
-<img  style="margin-right: 7px" alt="Github Pages" width="26px" height="26px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=512" />
-<img  style="margin-right: 7px" alt="Heroku" width="26px" height="26px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
-<img  style="margin-right: 7px" alt="Netlify" width="26px" height="26px" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" />
+<img  style="margin-right: 10px" alt="Jest" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" />
+<img  style="margin-right: 10px" alt="NPM" width="26px" height="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" />
+<img  style="margin-right: 10px" alt="SwaggerHub" width="26px" height="26px" src="https://miro.medium.com/max/720/0*ouOwqU23IiOAJf5v.jpg" />
+<img  style="margin-right: 10px" alt="Github Pages" width="26px" height="26px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=512" />
+<img  style="margin-right: 10px" alt="Heroku" width="26px" height="26px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
+<img  style="margin-right: 10px" alt="Netlify" width="26px" height="26px" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" />
 </p>
 <br>
 <br>
@@ -76,8 +76,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img align="left" alt="Ahmad-Sawalqeh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Sawalqeh&show_icons=true&hide_border=true" />
 </p> -->
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="400px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
-<img style="border-radius: 5px; margin-bottom: 5px" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh)](https://github.com/Ahmad-Sawalqeh/github-contribution-stats/) -->
 </p>
