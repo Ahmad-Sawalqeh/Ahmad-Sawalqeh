@@ -39,7 +39,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 💬 **Deployment platforms** such as `github pages`, `Herkou` and `Netlify`.
 
 ➡️ **Highlights** <br>
-&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='26' height='26'>&nbsp;&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
+&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px; width: 30px; height: 30px;">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
 
 💬 **Languages and Tools Icons**:
 <p style="display: flex; justify-contect: space-between;">
@@ -68,7 +68,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img style="margin-right: 20px" alt="Heroku" width="30px" height="30px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
 <img style="margin-right: 20px" alt="Netlify" width="30px" height="30px" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" />
 </p>
-<br>
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- <p>
