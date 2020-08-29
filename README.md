@@ -39,7 +39,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 💬 **Deployment platforms** such as `github pages`, `Herkou` and `Netlify`.
 
 ➡️ **Highlights** <br>
-&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px; width: 30px; height: 30px;">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
+&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="30px" height="30px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
 
 💬 **Languages and Tools Icons**:
 <p style="display: flex; justify-contect: space-between;">
