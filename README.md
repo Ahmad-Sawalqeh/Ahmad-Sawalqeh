@@ -42,7 +42,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 &nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='26' height='26'>&nbsp;&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
 
 💬 **Languages and Tools Icons**:
-<p>
+<p style="display: flex; justify-contect: space-between;">
 <img align="left" style="margin-right: 7px" alt="Git" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
 <img align="left" style="margin-right: 7px" alt="GitHub" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg" />
 <img align="left" style="margin-right: 7px" alt="Visual Studio Code" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
@@ -62,8 +62,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <!-- <img align="left" style="margin-right: 7px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
 <img align="left" style="margin-right: 7px" alt="Node.js" width="26px" height="26px" src="https://image.winudf.com/v2/image1/Y29tLnNreWFwcGVyLmxlYXJubm9kZWpzX2ljb25fMTU1ODM1NzY4M18wMzI/icon.png?w=170&fakeurl=1" />
 <img align="left" style="margin-right: 7px" alt="socket.io" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" />
-<br>
-<br>
+
 <img align="left" style="margin-right: 7px" alt="Jest" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" />
 <img align="left" style="margin-right: 7px" alt="NPM" width="26px" height="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" />
 <img align="left" style="margin-right: 7px" alt="SwaggerHub" width="26px" height="26px" src="https://miro.medium.com/max/720/0*ouOwqU23IiOAJf5v.jpg" />
@@ -79,7 +78,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 </p> -->
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="400px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
-<img style="border-radius: 5px; margin-bottom: 5px" alt="GIF" width="400px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh)](https://github.com/Ahmad-Sawalqeh/github-contribution-stats/) -->
 </p>
