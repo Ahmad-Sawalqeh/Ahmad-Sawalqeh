@@ -1,20 +1,15 @@
 <!--
-**Ahmad-Sawalqeh/Ahmad-Sawalqeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Complete list of github markdown emoji markup
+https://gist.github.com/rxaviers/7360908
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## technologies Icons 
+https://simpleicons.org/
+
 -->
-📩 &nbsp; ***Feel free to contact me. I am always here ...***
+📝 &nbsp; ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-[![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow&style=social)](https://github.com/Ahmad-Sawalqeh)
+[![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=Ahmad-Sawalqeh)](https://github.com/Ahmad-Sawalqeh)
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
@@ -26,56 +21,79 @@ Here are some ideas to get you started:
 [![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
-<h2 align='center'><samp><strong>Hi there 👋, I am <a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Ahmad Sawalqeh🌐</a></strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋, I am Ahmad Sawalqeh</strong></samp></h2>
+<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
-💬 **Knowledge of:** `Git`, `GitHub`, `VsCode`, `HTML5`, `CSS3`, `SASS`, `Responsive web design`, `FontAwesome`, `Javascript`(Vanilla, ES6), `ESlint`, `DOM`, `jQuery`, `Bootstrap`, `JSON`,
- `ReactJS`, `Enzyme`, `Redux`, `AXIOS`, `3rd Party API`, `NoSQL databases`, `Postgres`, `MySQL`, `MongoDB`, `NodeJS`, `socket.io`, `Jest`, `NPM`, `Swagger`,`Object-Oriented Programming`, `data structures and algorithms`.
+💻 **Languages and Tools Icons:** 🛠️<br>
 
-💬 **Deployment platforms** such as `github pages`, `Herkou` and `Netlify`.
+[![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git)]()
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)]()
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)]()
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)]() 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)]() 
+[![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)]()
+[![Font Awesome](https://img.shields.io/badge/-font%20awesome-181717?style=flat&logo=font-awesome&logoColor=339AF0)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript)]() 
+[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=000000)]()
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)]()
+[![JSON](https://img.shields.io/badge/-JSON-181717?style=flat&logo=JSON)]()
+[![React](https://img.shields.io/badge/-React-181717?style=flat&logo=react)]()
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)]()
+[![Nodejs](https://img.shields.io/badge/-Nodejs-181717?style=flat&logo=Node.js)]()
+[![NPM](https://img.shields.io/badge/-npm-181717?style=flat&logo=npm)]()
+[![socket.io](https://img.shields.io/badge/-Socket.Io-181717?style=flat&logo=socket.io)]()
+[![Jest](https://img.shields.io/badge/-Jest-181717?style=flat&logo=Jest&logoColor=C21325)]()
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff)]()
+[![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)]()
+[![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat&logo=mongodb)]()
+[![Swagger](https://img.shields.io/badge/-Swagger-181717?style=flat&logo=swagger)]()
+[![ESlint](https://img.shields.io/badge/-ESlint-4B32C3?style=flat&logo=ESlint)]()
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)]()
 
-➡️ **Highlights** <br>
-&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="30px" height="30px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
 
-💬 **Languages and Tools Icons**:
-<p style="display: flex; justify-contect: space-between;">
-<img style="margin-right: 20px" alt="Git" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
-<img style="margin-right: 20px" alt="GitHub" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg" />
-<img style="margin-right: 20px" alt="Visual Studio Code" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
-<img style="margin-right: 20px" alt="HTML5" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/html5.svg" />
-<img style="margin-right: 20px" alt="CSS3" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" />
-<img style="margin-right: 20px" alt="SASS" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
-<img style="margin-right: 20px" alt="FontAwesome" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" />
-<img style="margin-right: 20px" alt="JavaScript" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />
-<img style="margin-right: 20px" alt="JQuery" width="30px" height="30px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-512.png" />
-<img style="margin-right: 20px" alt="Bootstrap" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
-<img style="margin-right: 20px" alt="JSON" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/json.svg" />
-<img style="margin-right: 20px" alt="React.js" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-<img style="margin-right: 20px" alt="Redux" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
-<img style="margin-right: 20px" alt="PostgreSQL" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
-<img style="margin-right: 20px" alt="MySQL" width="34px" height="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" />
-<img style="margin-right: 20px" alt="MongoDB" width="34px" height="30px" src="https://developer.asustor.com/uploadIcons/0020_999_1579584903_MongoDB_256.png" />
-<img style="margin-right: 20px" alt="Node.js" width="30px" height="30px" src="https://image.winudf.com/v2/image1/Y29tLnNreWFwcGVyLmxlYXJubm9kZWpzX2ljb25fMTU1ODM1NzY4M18wMzI/icon.png?w=170&fakeurl=1" />
-<img style="margin-right: 20px" alt="socket.io" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" />
-<img style="margin-right: 20px" alt="Jest" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" />
-<img style="margin-right: 20px" alt="NPM" width="30px" height="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" />
-<img style="margin-right: 20px" alt="SwaggerHub" width="30px" height="30px" src="https://miro.medium.com/max/720/0*ouOwqU23IiOAJf5v.jpg" />
-<img style="margin-right: 20px" alt="Github Pages" width="30px" height="30px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=512" />
-<img style="margin-right: 20px" alt="Heroku" width="30px" height="30px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
-<img style="margin-right: 20px" alt="Netlify" width="30px" height="30px" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" />
-</p>
-<br>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- <p>
-<img align="left" alt="Ahmad-Sawalqeh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Sawalqeh&show_icons=true&hide_border=true" />
-</p> -->
+🧐 **Knowledge of:**<br>
+
+`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+
+
+🌍 **Deployment platforms:**<br>
+
+<img alt="Github Pages" width="30px" height="25px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" /> [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)]() [![Netlify](https://img.shields.io/badge/-Netlify-181717?style=flat&logo=netlify)]()
+
+
+🚩 **Highlights:** <br>
+&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
+
+
+📚 **Working on:** <br>
+
+[![Github Actions](https://img.shields.io/badge/-Github%20Actions-181717?style=flat&logo=github-actions&logoColor=ffffff)]()
+[![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-181717?style=flat&logo=json-web-tokens&logoColor=ffffff)]()
+[![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=Material%20UI&logoColor=ffffff)]()
+
+
+🤓 **Interested:** <br>
+
+[![React Native](https://img.shields.io/badge/-React%20Native-181717?style=flat&logo=react)]()
+[![PHP](https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=PHP&logoColor=white)]()
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)]()
+[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=ffffff)]()
+[![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-brightgreen?style=flat)]()
+
+
+<!-- ✅  **GitHub Extra Pins**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
+
+
+</br>
+</br>
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-
-<!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh)](https://github.com/Ahmad-Sawalqeh/github-contribution-stats/) -->
 </p>
