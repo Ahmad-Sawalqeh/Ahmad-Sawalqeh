@@ -37,7 +37,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![HTML5](https://img.shields.io/badge/-HTML5-181717?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-181717?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![Sass](https://img.shields.io/badge/-Sass-181717?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-lightgray?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-gray?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript&labelColor=000000)
 ![jQuery](https://img.shields.io/badge/-jQuery-181717?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
