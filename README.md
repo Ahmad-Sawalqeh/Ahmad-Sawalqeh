@@ -7,11 +7,8 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-<h4 align='right'>
-
 [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=Ahmad-Sawalqeh)](https://github.com/Ahmad-Sawalqeh)
-</h4>
 
 📝 &nbsp; ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
